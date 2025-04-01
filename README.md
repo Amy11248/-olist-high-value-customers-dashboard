@@ -34,7 +34,7 @@ Analyze customer behavior over a 6-month period to:
 
 ### 1️⃣ Executive Summary
 
-![Page 1](images/page1_overview.png)
+1.png/gitkeep
 
 ### 2️⃣ Customer Behavior Insights
 
