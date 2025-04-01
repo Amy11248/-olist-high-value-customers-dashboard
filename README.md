@@ -38,11 +38,11 @@ Analyze customer behavior over a 6-month period to:
 
 ### 2️⃣ Customer Behavior Insights
 
-![Page 2](images/page2_insights.png)
+![Page 2](./2.png)
 
 ### 3️⃣ High-Value Customer Profile
 
-![Page 3](images/page3_top_customers.png)
+![Page 3](./3.png)
 
 ---
 
