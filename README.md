@@ -34,7 +34,7 @@ Analyze customer behavior over a 6-month period to:
 
 ### 1️⃣ Executive Summary
 
-/images/1.png
+![Page 1](./1.png)
 
 ### 2️⃣ Customer Behavior Insights
 
